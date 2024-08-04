@@ -81,9 +81,10 @@ elif x > y or x < 10:
 ```
 
 - **While Loops**
-<br>
+
 Avoid infinite loops, make sure you include ```break``` or 
 anything updating that can terminate the loop
+
 ```Python
 while True:
     print("Hi")
