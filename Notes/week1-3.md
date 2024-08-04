@@ -14,11 +14,14 @@ Video link:
     - Tuple ()
 
 - **Operators and Operands**
-    - x + y, x - y 
-        - 3 + 5 = 8, 6 - 2 = 4
-        - 3.0 + 5 = 8.0, 9.0 - 2.0 = 7.0
+    - x + y
+        - 3 + 5 = 8
+        - 3.0 + 5 = 8.0
         - "H" + "E" = "HE"
         - "H" + 3 = Error! --> "H" + str(3) = "H3"
+    - x - y
+        - 6 - 2 = 4
+        - 9.0 - 2.0 = 7.0
     - x * y
         - x multiply by y
         - We can do more! "H" * 5 = "HHHHH"
