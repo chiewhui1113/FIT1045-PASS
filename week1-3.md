@@ -1,4 +1,4 @@
-# FIT1045 Week 1 PASS Session 
+# FIT1045 Week 3 PASS Session 
 Video link: 
 
 ## Recap Week 1 - 3
@@ -186,7 +186,7 @@ print(lst) # [[0], [1], [2]] Yay!
 - I will demonstrate this in the video 
 
 
-## Extra Practice 
+## Extra Practices
 1. Given an integer n, output the corresponding graph pattern.
 
 Example
