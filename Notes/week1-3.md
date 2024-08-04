@@ -98,12 +98,12 @@ while x <= 10:
     print(x)
     x += 1
 
-flag = False
+flag = True
 # Don't write while flag == True! It is ugly!
 while flag:
     name = input("What is your name")
-    if type(name) == str:
-        flag = True
+    if name == "CH":
+        flag = False
     print("Hmm")
 ```
 
