@@ -193,7 +193,7 @@ print(lst) # [[0], [1], [2]] Yay!
 1. Given an integer n, output the corresponding graph pattern.
 
 Example
-For n = 3, the expected output is:
+For n = 5, the expected output is:
 ```
      *
     ***
